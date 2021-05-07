@@ -1,1 +1,1 @@
-Sitemap: https://kochbj.github.io/fastpagestutorials/sitemap.xml
+Sitemap: https://kochbj.github.io/notebooks/sitemap.xml
